@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur .
+ 🌱 I’m currently learning about Unix system , Competitive Programming and Front-End Dev.
+ 📫 How to reach me: @_raghavit (twitter) , shuklaraghav321@gmail.com (mail)
+
 <!--
 **Raghav-byte/Raghav-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
