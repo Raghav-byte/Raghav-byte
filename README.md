@@ -1,4 +1,4 @@
-![Chrome Dino](http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif)
+![Chrome Dino](http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif =250*250)
 
 
 ### Hi there 👋
