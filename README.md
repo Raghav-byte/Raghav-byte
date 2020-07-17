@@ -7,7 +7,7 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 
 - 🔭 I’m currently working on taking rest
 - 🌱 I’m currently learning about Data Structures , Unix System 
-- 👯 I’m looking to collaborate on Cpp projects or Basic Web Dev stuff
+- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
 - 📫 How to reach me: @_raghavit (twitter) , shuklaraghav321@gmail.com (mail)
 - ⚡ Fun fact: I hate language wars ! 
 
