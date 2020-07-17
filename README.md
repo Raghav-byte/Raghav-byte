@@ -1,4 +1,4 @@
-![Chrome Dino](https://www.canva.com/design/DAECNytYCD4/PoRxofzI9myumteRSrpJOg/view?utm_content=DAECNytYCD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Chrome Dino](http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif)
 
 
 ### Hi there 👋
