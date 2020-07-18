@@ -9,7 +9,7 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 - 🌱 I’m currently learning about Data Structures , Unix System 
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
 - 📫 How to reach me: @_raghavit (twitter) , shuklaraghav321@gmail.com (mail)
-- ⚡ Fun fact: I hate language wars ! 
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 <!--
 **Raghav-byte/Raghav-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
