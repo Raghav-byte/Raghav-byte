@@ -8,7 +8,8 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 - 🔭 I’m currently working on taking rest
 - 🌱 I’m currently learning about Data Structures , Unix System 
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
-- 📫 How to reach me: @_raghavit (twitter) , shuklaraghav321@gmail.com (mail)
+- 📫 How to reach me: @_raghavit (twitter) , shuklaraghav321@gmail.com (mail) ,[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavmaharana/)](https://www.linkedin.com/in/raghav-byte/)
+
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
