@@ -11,7 +11,7 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 - 🔭 I’m currently working on taking rest
 - 🌱 I’m currently learning about Data Structures , Unix System 
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
-- 📫 How to reach me: @_raghavit (twitter) , shuklaraghav321@gmail.com (mail) ,[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavmaharana/)](https://www.linkedin.com/in/raghav-byte/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:shuklaraghav321@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavmaharana/)](https://www.linkedin.com/in/raghav-byte/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:shuklaraghav321@gmail.com)
 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
