@@ -19,6 +19,8 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 ,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/_raghavit)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></p>
+
 ### Some stats about Raghav
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
