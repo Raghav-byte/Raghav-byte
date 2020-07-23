@@ -31,6 +31,14 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 ### Some stats about Raghav
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
+<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/C++-215%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg" alt=""></a>
+<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/Python-192%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/HTML-86%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/Dart-32%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/CSS-78%20commits-purple.svg" alt=""></a>
+
+
 ⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
 
 
