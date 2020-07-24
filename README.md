@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="250px" width ="250px" align="Center">
 
 
-<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Raghav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
 I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur 🤓
@@ -19,12 +19,20 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 
 
 ### Some Stats About Raghav (Public Only)
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko" >
+<p align="center" >
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🤠 </a>
 
-⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
+<p align="center">
+<a href="https://dev.to/raghavbyte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="20" width="20" /></a>
+<a href="https://twitter.com/_raghavit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="20" width="20" /></a>
+<a href="https://instagram.com/raghav_shukl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/raghav-byte/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="20" width="20" /></a>
+</p>
+
 
 <!--
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
+⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
 -->
