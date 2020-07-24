@@ -4,8 +4,6 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
-
 I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur 🤓
 
 - 🔭 I’m currently working on taking rest 
@@ -19,16 +17,8 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 ,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/_raghavit)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></p>
 
-
-### Some stats about Raghav
+### Some Stats About Raghav (Public Only)
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🤠 </a>
@@ -36,10 +26,5 @@ I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipu
 ⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
 
 <!--
-<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/C++-215%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg" alt=""></a>
-<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/Python-192%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/HTML-86%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/Dart-32%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/Raghav-byte"><img src="https://img.shields.io/badge/CSS-78%20commits-purple.svg" alt=""></a>
+[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 -->
