@@ -15,9 +15,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
-### Some Stats About Raghav (Public Only)
+## Some Stats About Raghav 
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&count_private=true&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
