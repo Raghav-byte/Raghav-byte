@@ -19,8 +19,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <p align="center" >
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko"  > </p>
 
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
@@ -32,4 +30,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <!--
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 ⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
+<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+
 -->
