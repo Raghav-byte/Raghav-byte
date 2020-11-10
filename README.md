@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
-
-- 🔭 I’m currently working on taking rest  
+  
 - 🌱 I’m currently learning about Data Structures , Unix System 
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
@@ -31,5 +30,5 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 ⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
-
+- 🔭 I’m currently working on taking rest
 -->
