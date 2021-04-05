@@ -6,9 +6,8 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
   
-- 🌱 I’m currently learning about Data Structures , Unix System 
-- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
+- 🌱 I’m currently learning about Python , Unix System 
+- 🤔 I’m looking for help in learning about Data Science 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
@@ -31,4 +30,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 ⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 - 🔭 I’m currently working on taking rest
+- - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
+
 -->
