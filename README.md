@@ -7,17 +7,16 @@
 <img src="http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg" alt="total hits" /> </div>
 <br>
 
+### 👨‍💻 About Me :
 I'm a Computer Science Enthusiast  💻, Currently working as a Java Backend Developer 👨🏻‍💻
-  
 - 🌱 I’m currently working on technologies like Java, Springboot and MongoDb
 - 🤔 I’m looking for help in learning about Data Structures and Algorithmms
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-<br/>
 <div align="center">
-<span><a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin " style="position:relative" /></a>&nbsp;&nbsp;
+<span><a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;&nbsp;
 </span>
 <span><a href="https://dev.to/raghavbyte" target="_blank" style="position:relative"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev" /></a> &nbsp;&nbsp;
 </span>
@@ -26,11 +25,22 @@ I'm a Computer Science Enthusiast  💻, Currently working as a Java Backend Dev
 <span><a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
 </span>
 </div>
-<br/>
+<hr>
 
+### 🛠️ Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50width="50" height="50""/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+</div>
 
+<hr> 
 
-<h1 align = "center"> Some Stats About Raghav  </h1>  
+### 🔥 My Stats :
 <p align="center" >
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&count_private=true&show_owner=true&show_icons=true&theme=dark"> </p>
 
