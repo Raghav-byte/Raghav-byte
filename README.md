@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me :
 I'm a Computer Science Enthusiast  💻, Currently working as a Java Backend Developer 👨🏻‍💻
 - 🌱 I’m currently working on technologies like Java, Springboot and MongoDb
-- 🤔 I’m looking for help in learning about Data Structures and Algorithmms
+- 🤔 I’m looking for help in learning about DSA and Angular
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
