@@ -1,6 +1,5 @@
 <p align="Center" ><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width ="400px"></p>
 
-
 <h1 align="Center">  नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="70 px" width="70px"/> , I'm Raghav <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height ="70px" width= "70px">  </h1>
 <br>
 <div align = "center" > <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="total visits" /> 
@@ -30,20 +29,29 @@ I'm a Computer Science Enthusiast  💻, Currently working as a Java Backend Dev
 ### 🛠️ Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50width="50" height="50""/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="canva" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="50" height="50"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="50" height="50"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="mongodb" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="mongodb" width="50" height="50"/>&nbsp;
 </div>
 
 <hr> 
 
 ### 🔥 My Stats :
-<p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&count_private=true&show_owner=true&show_icons=true&theme=dark"> </p>
 
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs&rank_icon=github">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav-byte&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghav-byte&layout=compact&langs_count=6&card_width=320&theme=dark" />
+</a>
+
+
+</div>
 <!--
 https://shields.io/ for all the badges
 -->
