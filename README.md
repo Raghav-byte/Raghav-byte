@@ -6,10 +6,10 @@
 <img src="http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg" alt="total hits" /> </div>
 <br>
 
-### 👨‍💻 About Me :
-I'm a Computer Science Enthusiast  💻, Currently working as Backend Developer 👨🏻‍💻
+### 👨‍💻  About Me :
+- 👨🏻‍💻 I'm a Computer Science enthusiast currently working as a Backend Developer. I specialize in technologies like Spring Boot and Django, and I'm always eager to learn more 
 - 🌱 I’m currently working on technologies like Springboot , Django ,etc
-- 🤔 I’m looking for help in learning about DSA and Angular
+- 🤔 I’m looking for help in learning about Data Structures and Algorithms
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 
@@ -26,7 +26,7 @@ I'm a Computer Science Enthusiast  💻, Currently working as Backend Developer 
 </div>
 <hr>
 
-### 🛠️ Languages and Tools :
+### 🛠️  Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="50" height="50"/>&nbsp;
@@ -40,7 +40,7 @@ I'm a Computer Science Enthusiast  💻, Currently working as Backend Developer 
 
 <hr> 
 
-### 🔥 My Stats :
+### 🔥  My Stats :
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs&rank_icon=github">
