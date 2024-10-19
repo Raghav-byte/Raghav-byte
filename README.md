@@ -17,7 +17,7 @@
 <div align="center">
 <span><a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;&nbsp;
 </span>
-<span><a href="https://dev.to/raghavbyte" target="_blank" style="position:relative"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev" /></a> &nbsp;&nbsp;
+<span><a href="https://hashnode.com/@Raghav-Byte" target="_blank" style="position:relative"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" alt="Hashnode" /></a> &nbsp;&nbsp;
 </span>
 <span><a href="https://git.letsmobility.com/raghav_shukla" target="_blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"  /></a> &nbsp;&nbsp;
 </span>
