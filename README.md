@@ -7,9 +7,9 @@
 <br>
 
 ### 👨‍💻  About Me :
-- 👨🏻‍💻 I'm a Computer Science enthusiast currently working as a Backend Developer. I specialize in technologies like Spring Boot and Django, and I'm always eager to learn more 
-- 🌱 I’m currently working on technologies like Springboot , Django ,etc
-- 🤔 I’m looking for help in learning about Data Structures and Algorithms
+- 👨🏻‍💻 I'm a Computer Science enthusiast currently working as a Software Engineer at LetsMobility . I specialize in technologies like Spring Boot , Java, and I'm always eager to learn more 
+- 🌱 I’m currently working on technologies like Springboot , Angular ,etc
+- 🤔 I’m looking for help in learning about DSA and Frontend
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 
