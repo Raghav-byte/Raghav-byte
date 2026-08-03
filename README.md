@@ -7,7 +7,7 @@
 <br>
 
 ### 👨‍💻  About Me :
-- 💻 Senior Software Engineer, [confirm team] @ DigitalOcean — building with Go, Python, and gRPC
+- 💻 Senior Software Engineer @ DigitalOcean — building with Go, Python, and gRPC
 - 🎯 Focused on generative AI systems: evaluation pipelines, LLM tooling, and rigorous, repeatable testing for GenAI features
 - 🚀 Previously: Java/Spring Boot microservices with Kafka + Redis at ProficonLabs (founding engineer, 0→1 on Simpo.ai and Sews.ai); core ordering/reporting systems at Isthara handling 10k+ orders/day
 - 🧠 Currently deep in: RAG pipelines, agentic AI, LLM evaluation, vector DBs (Qdrant, Pinecone)
