@@ -43,14 +43,12 @@
 ### 🔥  My Stats :
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs&rank_icon=github">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs&rank_icon=github">
+  <a href="https://github-stats-extended.vercel.app/api?username=Raghav-byte&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Raghav-byte&include_all_commits=true&theme=dark&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=contribs">
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav-byte&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghav-byte&layout=compact&langs_count=6&card_width=320&theme=dark" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Raghav-byte&layout=compact">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Raghav-byte&layout=compact&langs_count=6&card_width=320&theme=dark" />
 </a>
-
-
 </div>
 <!--
 https://shields.io/ for all the badges
