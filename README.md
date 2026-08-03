@@ -7,11 +7,12 @@
 <br>
 
 ### 👨‍💻  About Me :
-- 💻 Backend Software Engineer at DigitalOcean — Go, Python, SQL, working on eventing and feedback systems infrastructure, including AI-driven components (evals, agent workflows)
-- 🚀 Previously founding engineer at ProficonLabs — built Simpo.ai and Sews.ai from 0 to 1: backend services, real-time streaming (Kafka), RAG pipelines, messaging intelligence
-- 🧠 Deep in AI infra: RAG, vector DBs (Qdrant, Pinecone), LangChain/LlamaIndex, agent systems, evaluation frameworks
-- 📫 Reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
-
+- 💻 Senior Software Engineer, [confirm team] @ DigitalOcean — building with Go, Python, and gRPC
+- 🎯 Focused on generative AI systems: evaluation pipelines, LLM tooling, and rigorous, repeatable testing for GenAI features
+- 🚀 Previously: Java/Spring Boot microservices with Kafka + Redis at ProficonLabs (founding engineer, 0→1 on Simpo.ai and Sews.ai); core ordering/reporting systems at Isthara handling 10k+ orders/day
+- 🧠 Currently deep in: RAG pipelines, agentic AI, LLM evaluation, vector DBs (Qdrant, Pinecone)
+- 🌐 More at [raghavdev.in](https://raghavdev.in) · [blog.raghavdev.in](https://blog.raghavdev.in)
+  
 <br>
 <div align="center">
 <span><a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;&nbsp;
