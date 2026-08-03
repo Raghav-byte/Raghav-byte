@@ -7,11 +7,10 @@
 <br>
 
 ### 👨‍💻  About Me :
-- 👨🏻‍💻 I'm a Computer Science enthusiast currently working as a Software Engineer at LetsMobility . I specialize in technologies like Spring Boot , Java, and I'm always eager to learn more 
-- 🌱 I’m currently working on technologies like Springboot , Angular ,etc
-- 🤔 I’m looking for help in learning about DSA and Frontend
-- 💬 Ask me about anything and everything 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
+- 💻 Backend Software Engineer at DigitalOcean — Go, Python, SQL, working on eventing and feedback systems infrastructure, including AI-driven components (evals, agent workflows)
+- 🚀 Previously founding engineer at ProficonLabs — built Simpo.ai and Sews.ai from 0 to 1: backend services, real-time streaming (Kafka), RAG pipelines, messaging intelligence
+- 🧠 Deep in AI infra: RAG, vector DBs (Qdrant, Pinecone), LangChain/LlamaIndex, agent systems, evaluation frameworks
+- 📫 Reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 
 <br>
 <div align="center">
