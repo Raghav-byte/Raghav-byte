@@ -19,8 +19,6 @@
 </span>
 <span><a href="https://hashnode.com/@Raghav-Byte" target="_blank" style="position:relative"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" alt="Hashnode" /></a> &nbsp;&nbsp;
 </span>
-<span><a href="https://git.letsmobility.com/raghav_shukla" target="_blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"  /></a> &nbsp;&nbsp;
-</span>
 <span><a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
 </span>
 </div>
